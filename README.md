@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vikkieessien
-- 👀 I’m interested in Data Analyst, Business Analyst and Marketing Analyst job opportunities
+- 👀 I’m interested in Data Analyst, Business Intelligence and Marketing Analyst job opportunities
 - 🌱 I’m currently learning Microsoft Excel and VBA
 - 💞️ I’m looking to collaborate on Data science or Analyst projects
 - 📫 You can reach me on vikkieessien@gmail.com
