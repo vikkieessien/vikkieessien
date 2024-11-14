@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vikkieessien
-- 👀 I’m interested in Data Analyst, Business Intelligence and Marketing Analyst job opportunities
-- 💞️ I’m looking to collaborate on Data science or Analyst projects
+- 👀 I’m passionate about Data, turning complex data into actionable insights, optimise metrics and drive impactful decisions. 
+- 💞️ I’m looking to collaborate on Data Analyst projects
 - 📫 You can reach me on vikkieessien@gmail.com
 
 <!---
