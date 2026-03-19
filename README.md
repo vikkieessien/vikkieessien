@@ -1,9 +1,42 @@
-- 👋 Hi, I’m @vikkieessien
-- 👀 I’m passionate about Data, turning complex data into actionable insights, optimise metrics and drive impactful decisions. 
-- 💞️ I’m looking to collaborate on Data Analyst projects
-- 📫 You can reach me on vikkieessien@gmail.com
+# 👋 Hi, I'm Victoria Essien
 
-<!---
-vikkieessien/vikkieessien is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎯 Senior Data Analyst | Analytics Engineer
+
+---
+
+## 🚀 About Me
+
+I turn complex data into actionable insights that drive business impact.
+Focused on marketing, growth, and product analytics.
+
+---
+
+## 💡 Skills
+
+* SQL (advanced, window functions, cohort analysis)
+* dbt (data modeling: staging → marts)
+* BigQuery / Snowflake
+* Tableau (dashboarding & storytelling)
+
+---
+
+## 🔥 Featured Project
+
+**Growth Analytics Pipeline (dbt + BigQuery + Tableau)**
+
+* Built end-to-end data models
+* Created cohort retention & CLV analysis
+* Delivered dashboards for business decision-making
+
+---
+
+## 📊 Core Metrics
+
+CLV • CAC • Retention • Revenue per user • Funnel conversion
+
+---
+
+## 🤝 Contact
+
+📫 [vikkieessien@gmail.com](mailto:vikkieessien@gmail.com)
+
